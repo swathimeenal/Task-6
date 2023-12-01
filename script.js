@@ -99,11 +99,11 @@ class Person{
         this.location = location;
     }
 }
-var person1 = new Person("Santhosh", "Srinivasan", "29-9-2001" , "Kumbakonam");
-var person2 = new Person("Surya", "Gunasekaran", "1-1-2002" , "Mannargudi");
-var person3 = new Person("Shiyam", "Gowtham", "4-6-2002" , "Vadaseri");
-var person4 = new Person("Shaikh Muhibudeen", "Abdhul Salam", "20-10-2001" , "Qatar");
-var person5 = new Person("SuryaKumar", "Sathiyan", "28-7-2002" , "Thanjavur");
+var person1 = new Person("Divya", "Bharathi", "2-06-1996" , "chennai");
+var person2 = new Person("Swetha", "sekaran", "1-1-1998" , "chennai");
+var person3 = new Person("Saratha", "Gokul", "9-10-1995" , "Salem");
+var person4 = new Person("johnson", "George", "7-10-2001" , "Salem");
+var person5 = new Person("Kumar", "Pandian", "8-7-1995" , "Ooty");
 
 console.log(person1.firstname);
 console.log(person1.lastname);
